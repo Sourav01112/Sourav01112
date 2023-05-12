@@ -80,8 +80,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav01112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav01112" alt="sourav01112" /></a> </p>
 <hr />
+<a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sourav01112&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 
