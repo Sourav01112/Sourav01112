@@ -19,9 +19,24 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sourav-chaudhary-214609155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-chaudhary-214609155" height="30" width="40" /></a>
-</p>
+
+  <div id="badges" align="left">
+  <a href="https://linkedin.com/in/sourav-chaudhary-214609155" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sourav01112.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1LRCQqbDcyEB5ncmvZRE5RNDb8-4X1hp_/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+  
+  
+
+  
+
 
 <hr />
 
