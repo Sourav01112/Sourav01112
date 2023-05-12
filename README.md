@@ -23,7 +23,7 @@
 
 <hr />
 
-Programming languages/technologies:
+<h3>Programming languages/technologies:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,17 +44,14 @@ Frameworks and Libraries:
   <img src="https://img.shields.io/badge/jQuery(Basics)-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
   
-</p>
- 
-Databases :
- <p>
+<h3> Databases:</h3>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-66595C?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Atlas-339933?style=for-the-badge&logo=mongodb&logoColor=white" />
                                                                                                                                                                 
-<h3 align="left"> Tools:</h3>
+<h3> Tools:</h3>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-66595C?style=for-the-badge&logo=cypress&logoColor=white" />
