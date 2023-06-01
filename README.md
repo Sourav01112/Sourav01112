@@ -57,8 +57,9 @@
   <img src="https://img.shields.io/badge/Material_UI-563D7C?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra_UI-38B2AC?style=for-the-badge&logo=chakra-ui&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery(Basics)-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-20232A?style=for-the-badge&logo=ant%20design&logoColor=61DAFB" />
+<!--    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/jQuery(Basics)-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> -->
 </p>
   <hr />
 <h3> Databases:</h3>
