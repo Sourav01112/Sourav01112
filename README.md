@@ -100,7 +100,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav01112" alt="sourav01112" /></a> </p>
 <hr />
-<a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sourav01112&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!-- // Working graph  -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav01112&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- <a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sourav01112&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 
