@@ -12,7 +12,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [](https://sourav-portfolio-ten.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://sourav-portfolio-ten.vercel.app/projects](https://sourav-portfolio-ten.vercel.app/projects)
 
 
 - 💬 Ask me about **JavaScript & React**
