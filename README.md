@@ -11,9 +11,8 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y)
-
+<!--   - 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) -->
+- 👨‍💻 All of my projects are available at [https://sourav01112.github.io/](https://sourav01112.github.io/)
 
 - 💬 Ask me about **JavaScript & React**
 
