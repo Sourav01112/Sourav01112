@@ -5,7 +5,8 @@
 <!-- <img align='right' alt='coding' width='410px' src='https://www.lambdatest.com/resources/images/news24.gif'/> -->
 <!-- <img align='right' alt='coding' width='410px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>  -->
 <div margin-top:'50px'>
-<img align='right' alt='coding' width='370px'  src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
+<!-- <img align='right' alt='coding' width='370px'  src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/> -->
+  <img align='right' alt='coding' width='370px' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'/>
 </div>
 
 
