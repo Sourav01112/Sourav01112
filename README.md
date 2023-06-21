@@ -11,8 +11,8 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
-<!--   - 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) -->
-- 👨‍💻 All of my projects are available at [https://sourav01112.github.io/](https://sourav01112.github.io/)
+- 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) 
+<!-- - 👨‍💻 All of my projects are available at [https://sourav01112.github.io/](https://sourav01112.github.io/) -->
 
 - 💬 Ask me about **JavaScript & React**
 
@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/sourav-chaudhary-214609155" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sourav01112.github.io/">
+  <a href="https://sourav-portfolio-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1LRCQqbDcyEB5ncmvZRE5RNDb8-4X1hp_/view?usp=sharing">
