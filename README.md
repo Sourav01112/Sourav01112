@@ -3,7 +3,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <a href="https://sourav-portfolio-ten.vercel.app/" >I'm Sourav Chaudhary</a></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <!-- <img align='right' alt='coding' width='410px' src='https://www.lambdatest.com/resources/images/news24.gif'/> -->
-<img align='right' alt='coding' width='410px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>
+<!-- <img align='right' alt='coding' width='410px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>  -->
 <img align='right' alt='coding' width='410px' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
 
 
