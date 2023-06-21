@@ -4,7 +4,9 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <!-- <img align='right' alt='coding' width='410px' src='https://www.lambdatest.com/resources/images/news24.gif'/> -->
 <!-- <img align='right' alt='coding' width='410px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>  -->
-<img align='right' alt='coding' width='370px' margin-top:'50px' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
+<div margin-top:'50px'>
+<img align='right' alt='coding' width='370px'  src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav01112&label=Profile%20views&color=0e75b6&style=flat" alt="sourav01112" /> </p>
