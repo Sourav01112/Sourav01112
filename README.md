@@ -98,7 +98,7 @@
 
 <!-- Commit Stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourav01112&theme=vision-friendly-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourav01112&theme=vision-friendly-dark)]
 
 <!-- Github stats with Stars -->                                                                                                            
 <img src="https://github-readme-stats.vercel.app/api?username=Sourav01112&show_icons=true&theme=vision-friendly-dark" width="400">
