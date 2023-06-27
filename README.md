@@ -96,18 +96,14 @@
 
 ### :fire: My Stats : 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sourav01112&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <!-- Commit Stats -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourav01112&theme=vision-friendly-dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourav01112&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-    <!--  new -->                                                                                                              
+<!-- Github stats with Stars -->                                                                                                            
 <img src="https://github-readme-stats.vercel.app/api?username=Sourav01112&show_icons=true&theme=vision-friendly-dark" width="400">
 
-
+<!-- Top Langs -->    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav01112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
