@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://sourav01112.github.io/)
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <a href="https://sourav-portfolio-ten.vercel.app/" >I'm Sourav Chaudhary</a></h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&color=%FFEB3B&lines=%F0%9F%96%A5+A passionate+FullStack+Developer+from India;%F0%9F%96%A5+have 2160'+' + hours of+ Coding + Experience"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=&color=%FFEB3B&lines=%F0%9F%96%A5+A passionate+FullStack+Developer+from + India;%F0%9F%96%A5+have 2160 Plus + hours of+ Coding + Experience"></a>
 </h3>
 
 <!-- <img align='right' alt='coding' width='410px' src='https://www.lambdatest.com/resources/images/news24.gif'/> -->
