@@ -35,10 +35,10 @@
   <a href="https://linkedin.com/in/sourav-chaudhary-214609155" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sourav-portfolio-ten.vercel.app/" target="_blank>
+  <a href="https://sourav-portfolio-ten.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1LRCQqbDcyEB5ncmvZRE5RNDb8-4X1hp_/view?usp=sharing" target="_blank>
+  <a href="https://drive.google.com/file/d/1LRCQqbDcyEB5ncmvZRE5RNDb8-4X1hp_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
