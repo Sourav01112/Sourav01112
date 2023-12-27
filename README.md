@@ -19,7 +19,7 @@
 :man_technologist: <h3>About Me :</h3>
 
 ### Hi there 👋
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Cloud Computing**
 - 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) 
 <!-- - 👨‍💻 All of my projects are available at [https://sourav01112.github.io/](https://sourav01112.github.io/) -->
 
