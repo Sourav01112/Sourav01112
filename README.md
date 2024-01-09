@@ -20,7 +20,7 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning **Cloud Computing**
-- 👨‍💻 All of my projects are available at [https://souravcodes.in/projects](https://souravcodes.in/projects)]
+- 👨‍💻 All of my projects are available at [https://souravcodes.in/projects](https://souravcodes.in/projects)
 <!-- - 👨‍💻 All of my projects are available at [https://souravcodes.in/projects]([https://sourav01112.github.io/](https://souravcodes.in/projects)) -->
 
 - 💬 Ask me about **JavaScript & React**
