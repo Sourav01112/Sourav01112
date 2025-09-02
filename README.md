@@ -28,4 +28,6 @@
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav01112&hide_border=true">
     </picture>
 </a>
+&nbsp;&nbsp;&nbsp;
 
+[![Sourav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav01112&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
