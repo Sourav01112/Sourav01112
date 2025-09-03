@@ -1,12 +1,17 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1>
-    
+<div align="center">
+<table>
+<tr>
+<td><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1></td>
+<td align="right">
     <a href="https://www.linkedin.com/in/sourav-chaudhary-214609155">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png">
             <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42">
         </picture>
     </a>
+</td>
+</tr>
+</table>
 </div>
 
 
