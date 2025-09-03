@@ -1,18 +1,6 @@
-<div align="center">
-<table>
-<tr>
-<td><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1></td>
-<td align="right">
-    <a href="https://www.linkedin.com/in/sourav-chaudhary-214609155">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png">
-            <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42">
-        </picture>
-    </a>
-</td>
-</tr>
-</table>
-</div>
+<div align="center"><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1><a href="https://www.linkedin.com/in/sourav-chaudhary-214609155"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png"><img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42"></picture></a></div>
+
+
 
 
 
@@ -22,10 +10,10 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sourav01112&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb"/>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
-    <img width="42" height="42" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
-  </picture>
+ <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+</picture>
   
 </div>
 
