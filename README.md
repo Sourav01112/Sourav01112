@@ -10,7 +10,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sourav01112&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=compact&exclude_repo=babel,convert"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav01112&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+  </picture>
 </div>
 
 <div align="center">
