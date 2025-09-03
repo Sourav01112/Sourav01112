@@ -46,3 +46,13 @@
 [![Sourav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav01112&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+&nbsp;&nbsp;&nbsp;
+
+## 🎯 Current Focus
+- 🔭 Building **AI-powered microservices** with LangGraph & Go
+- 🌱 Learning **advanced system design**
+- 👯 Looking to collaborate on **open-source AI projects**
+- 💬 Ask me about **Full-stack engineering**, **AI/ML**, or **microservices**
+- ⚡ Fun fact: I love turning complex problems into elegant solutions!
+
