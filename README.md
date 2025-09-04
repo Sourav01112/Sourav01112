@@ -17,22 +17,7 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
-</div>
 
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
-</div>
-
-
-<!-- More reliable streak stats -->
-<img src="https://github-readme-streak-stats.vercel.app/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
-
-<!-- Or use GitHub's official stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sourav01112&show_icons=true&theme=dark&hide_border=true"/>
 
 
 
