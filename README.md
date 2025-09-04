@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
+  <img src="https://streak-stats.demolab.com/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
 </div>
 
 
