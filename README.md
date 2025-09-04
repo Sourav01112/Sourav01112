@@ -4,7 +4,7 @@
 
 
 
-## 📊 GitHub Stats
+**📊 GitHub Stats**
 
 <div align="center">
   
@@ -21,7 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav01112&hide_border=true&theme=dark&background=0e1116"/>
 </div>
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 <div align="center">
 
@@ -47,9 +47,9 @@
 
 </div>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-## 🎯 Current Focus
+**🎯 Current Focus**
 - 🔭 Building **AI-powered microservices** with LangGraph & Go
 - 🌱 Learning **advanced system design**
 - 👯 Looking to collaborate on **open-source AI projects**
