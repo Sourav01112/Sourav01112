@@ -39,7 +39,7 @@
 
 </div>
 
-## 📈 Activity Graph
+**📈 Activity Graph**
 
 <div align="center">
   
