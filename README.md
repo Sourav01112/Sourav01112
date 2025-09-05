@@ -1,7 +1,7 @@
 <div align="center"><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1><a href="https://www.linkedin.com/in/sourav-chaudhary-214609155"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png"><img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42"></picture></a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://souravcodes.in" target="_blank">
-  <img src="./briefcase-4-32.png" alt="Portfolio" width="42" height="42"/>
+  <img src="./briefcase-4-32.png" alt="Portfolio" width="38" height="38"/>
 </a>
 
 
