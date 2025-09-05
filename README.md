@@ -1,4 +1,13 @@
-<div align="center"><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1><a href="https://www.linkedin.com/in/sourav-chaudhary-214609155"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png"><img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42"></picture></a></div>
+<div align="center"><h1>Hey! 👋🏼 I'm <a href="https://www.souravcodes.in">Sourav</a></h1><a href="https://www.linkedin.com/in/sourav-chaudhary-214609155"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png"><img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42"></picture></a>
+
+<!-- Blue briefcase icon -->
+<a href="https://souravcodes.in" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/briefcase.png" alt="Portfolio" width="40" height="40"/>
+</a>
+
+
+
+</div>
 
 
 
